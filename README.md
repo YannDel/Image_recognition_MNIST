@@ -10,8 +10,6 @@ The data used for this project comes from the MNIST dataset which is a very good
 
 The data contains contains 70,000 instances of labeled images (28x28 pixels) representing handwritten digits going from 0 to 9.
 
-![image-2.png](attachment:image-2.png)
-
 These image-label pairs are divided into 60,000 training examples and 10,000 testing examples.
 
 ## Methodology
